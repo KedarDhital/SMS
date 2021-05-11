@@ -1,7 +1,4 @@
-# ADDRESS BOOK GROUP PROJECT
-## Description:
-This java program will implement multiple methods to manage address book for a user. It is a console application which asks user to choose an action such as: 
-View Contacts, Add New Contacts, Search, Edit, Delete 
+# AD - SBA - Core Java/JPA/JUnit
 
 ![](https://github.com/kdhital14/images/blob/main/(REQUIREMENTS)%20School_Management_System%20(1)_1.jpg)
 ![](https://github.com/kdhital14/images/blob/main/(REQUIREMENTS)%20School_Management_System%20(1)_2.jpg)
